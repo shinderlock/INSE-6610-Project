@@ -14,4 +14,4 @@ Survey and compare the use of software and hardware tools in cybercrime investig
 |Harpreet Kaur| 40190384 |||
 |Parva Rohit Kumar Raval | 40172735|||
 |Ranjan Haranahalli Ramesh | 40167577|||
-|Aishwarya Shankar | 40170602|||
+|Aishwarya Shankar | 40170602|aishushank|aishwaryashankar13@gmail.com|
