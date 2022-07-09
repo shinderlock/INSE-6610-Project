@@ -11,7 +11,7 @@ Survey and compare the use of software and hardware tools in cybercrime investig
 |Shiva Bahador | 40154795 ||shivvabahadorr@gmail.com|
 |Feiyu Duan | 40160978 |FeiyuDuan|duanfei.yu0423@gmail.com|
 |Yifeng Shu | 40170236 |shinderlock|shinderlock@gmail.com|
-|Harpreet Kaur| 40190384 |||
+|Harpreet Kaur| 40190384 |MsHarpreetKaur|harpreet.kaur.20211@mail.concordia.ca|
 |Parva Rohit Kumar Raval | 40172735|||
 |Ranjan Haranahalli Ramesh | 40167577|||
 |Aishwarya Shankar | 40170602|aishushank|aishwaryashankar13@gmail.com|
