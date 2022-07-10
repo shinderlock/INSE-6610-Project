@@ -8,7 +8,7 @@ Survey and compare the use of software and hardware tools in cybercrime investig
 
 |Name | Student ID |Github username|Email |
 |----|----|----|----|
-|Shiva Bahador | 40154795 ||shivvabahadorr@gmail.com|
+|Shiva Bahador | 40154795 |shivabahador|shivvabahadorr@gmail.com|
 |Feiyu Duan | 40160978 |FeiyuDuan|duanfei.yu0423@gmail.com|
 |Yifeng Shu | 40170236 |shinderlock|shinderlock@gmail.com|
 |Harpreet Kaur| 40190384 |MsHarpreetKaur|harpreet.kaur.20211@mail.concordia.ca|
