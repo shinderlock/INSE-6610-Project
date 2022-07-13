@@ -2,4 +2,4 @@
 |----|----|----|----|
 |Yifeng Shu| Winhex , X-Ways Forensic||Rosalina V, Suhendarsah A, Natsir M. Analisis Data Recovery Menggunakan Software Forensic: Winhex and X-Ways Forensic[J]. PROSISKO: Jurnal Pengembangan Riset dan Observasi Sistem Komputer, 2016, 3(1).|
 |Feiyu Duan|KAPE,volatility,AVML,Belkasoft RAM Capturer|Memory Forensics|
-|Shiva Bahador| Snort , Bro , Suricata| Network Intrusion Detection Tools|
+|Shiva Bahador| Snort , Bro , Suricata| Network Intrusion Detection Tools| R. Gupta, S. Singh, S. Verma, and S. Singhal, “Intrusion Detection System Using SNORT,” International Research Journal of Engineering and Technology (IRJET)|
