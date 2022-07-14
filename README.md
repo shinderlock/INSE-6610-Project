@@ -15,3 +15,7 @@ Survey and compare the use of software and hardware tools in cybercrime investig
 |Parva Rohit Kumar Raval | 40172735|||
 |Ranjan Haranahalli Ramesh | 40167577|RanjanHR|ranjanhr95@gmail.com|
 |Aishwarya Shankar | 40170602|aishushank|aishwaryashankar13@gmail.com|
+
+
+# The link for our project plan: 
+[Prolect Plan](https://docs.google.com/document/d/1Y3I7S7cGkc0Pz7Uim0PtTfWmxVXEj_k7D6VB18frCKc/edit?usp=sharing)
