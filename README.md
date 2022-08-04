@@ -19,3 +19,7 @@ Survey and compare the use of software and hardware tools in cybercrime investig
 
 # The link for our project plan: 
 [Prolect Plan](https://docs.google.com/document/d/1Y3I7S7cGkc0Pz7Uim0PtTfWmxVXEj_k7D6VB18frCKc/edit?usp=sharing)
+
+
+# presentation Slides:
+[Slides](https://docs.google.com/presentation/d/1m8DlrU8zR01vaooRHRUxiV3pflFzXQmm/edit?usp=sharing&ouid=101432036782153769152&rtpof=true&sd=true)
