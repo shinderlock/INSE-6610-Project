@@ -25,4 +25,6 @@ Survey and compare the use of software and hardware tools in cybercrime investig
 [Slides](https://docs.google.com/presentation/d/1m8DlrU8zR01vaooRHRUxiV3pflFzXQmm/edit?usp=sharing&ouid=101432036782153769152&rtpof=true&sd=true)
 
 # Report:
-[Report](https://docs.google.com/document/d/11CaSVY0_6okUXCedto_n9veflJ83zrQb6JFXehmZOFc/edit?usp=sharing)
+[Report(unformat)](https://docs.google.com/document/d/11CaSVY0_6okUXCedto_n9veflJ83zrQb6JFXehmZOFc/edit?usp=sharing)
+
+[Report(IEEE format)](https://1drv.ms/w/s!AtTpJ4hZUr2Hg1eeUvxfs3dnEN6o)
